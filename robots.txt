@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.architechshop.co.uk/sitemap.xml.gz
+Sitemap: https://support.architechshop.co.uk/sitemap.xml.gz
