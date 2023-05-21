@@ -1,8 +1,8 @@
 ---
-icon: lock
+icon: stop
 ---
 
-# :icon-lock: Box Lock System V2
+# :icon-stop: Bollard System V2
 
 :icon-lock: Whitelisted: :icon-check:
 
