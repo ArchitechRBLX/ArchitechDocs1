@@ -1,0 +1,19 @@
+{
+  "name": "retypedocs",
+  "version": "1.0.0",
+  "description": "Docs",
+  "main": "index.js",
+  "dependencies": {
+    "retypeapp": "^2.4.0",
+    "retype": "^0.2.0",
+    "retypeapp-win-x64": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "retype watch",
+    "build": "retype build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
