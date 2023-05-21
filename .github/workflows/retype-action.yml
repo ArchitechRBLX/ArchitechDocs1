@@ -1,4 +1,4 @@
-name: Publish Retype powered website to GitHub Pages
+name: GitHub Action for Retype
 on:
   workflow_dispatch:
   push:
@@ -7,20 +7,11 @@ on:
 
 jobs:
   publish:
-    name: Publish to retype branch
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v2
 
-      - uses: retypeapp/action-build@latest
-        with:
-          license: ${{ secrets.RETYPE_SECRET }}
-
-      - uses: retypeapp/action-github-pages@latest
-        with:
-          update-branch: true
+      - uses: retypeapp/action-build@v2
