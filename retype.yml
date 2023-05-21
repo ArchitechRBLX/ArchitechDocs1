@@ -3,7 +3,7 @@ output: .retype
 url: architechshop.co.uk # Add your website address here
 branding:
   title: Architech
-  label: Docs
+  label: Support
   logo: static/logo2.png
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
