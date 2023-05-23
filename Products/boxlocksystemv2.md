@@ -4,7 +4,7 @@ icon: lock
 
 # :icon-lock: Box Lock System V2
 
-<figure><img src="[../.gitbook/assets/Box.png](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2FaXH7nPoeGOBAaPDRsJpp%2FBox.png?alt=media&token=c5f79812-1128-4a41-b4d4-7d270c938978)" alt=""><figcaption><p>Box Lock System</p></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2FaXH7nPoeGOBAaPDRsJpp%2FBox.png?alt=media&token=c5f79812-1128-4a41-b4d4-7d270c938978" alt=""><figcaption></figcaption></figure>
 
 :icon-lock: Whitelisted: :icon-check:
 
