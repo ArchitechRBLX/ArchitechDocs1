@@ -31,3 +31,5 @@ icon: browser
 6\. **Ungroup the Folders into the places specified**&#x20;
 
 7\. **Open scripts and configure them**
+
+8\. **Follow [this](https://www.youtube.com/watch?v=6KR_sXh-HTM) guide to disable Roblox's default leaderboard.
