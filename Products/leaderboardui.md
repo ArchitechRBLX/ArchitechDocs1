@@ -32,4 +32,4 @@ icon: browser
 
 7\. **Open scripts and configure them**
 
-8\. **Follow [this](https://www.youtube.com/watch?v=6KR_sXh-HTM) guide to disable Roblox's default leaderboard.
+8\. **Follow [this](https://www.youtube.com/watch?v=6KR_sXh-HTM) guide to disable Roblox's default leaderboard.**
