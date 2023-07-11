@@ -4,7 +4,7 @@ icon: stop
 
 # :icon-stop: Bollard System V3
 
-<figure><img src="https://media.discordapp.net/attachments/1125146121199685743/1127990140434927706/Architech_Bollard_System_V3.png?width=1706&height=1024" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/GPh8yTeYqOA" %}
 
 :icon-lock: Whitelisted: :icon-check:
 
