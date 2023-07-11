@@ -4,7 +4,7 @@ icon: stop
 
 # :icon-stop: Bollard System V3
 
-{% embed url="https://www.youtube.com/GPh8yTeYqOA" %}
+{% embed url="https://www.youtube.com/watch?v=GPh8yTeYqOA" %}
 
 :icon-lock: Whitelisted: :icon-check:
 
