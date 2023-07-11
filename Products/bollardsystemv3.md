@@ -43,4 +43,4 @@ icon: stop
 <figure><img src="https://media.discordapp.net/attachments/1125146121199685743/1128401103151693921/Screenshot_2023-07-11_at_8.02.58_PM.png?width=1702&height=1024" alt=""><figcaption></figcaption></figure>
 
 
-[!badge variant="warning" text="You have to rename each Bollard model, the default is Bollards, you cannot have anything with the same name as that. We suggest Bollards1, Bollards2 Ect."]
+## You have to rename each Bollard model, the default is Bollards, you cannot have anything with the same name as that. We suggest Bollards1, Bollards2 Ect.
