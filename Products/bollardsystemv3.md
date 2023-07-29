@@ -19,11 +19,11 @@ icon: stop
 
 ### 2\. **Open the Security Tab**
 
-![](<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2F3Z69W1viNETCHtC0cDbD%2FScreenshot%202022-12-16%20at%205.42.53%20PM.png?alt=media&token=fec859bb-7265-4066-9ab8-4edc932f430d>)
+![](<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2FiGhOvQo1KUxanK4hJDak%2FScreenshot%202022-12-16%20at%205.41.25%20PM.png?alt=media&token=74694179-10d6-4227-a17e-470b4669fcb2>)
 
 ### 3\. **Enable Allow HTTP Requests**
 
-![](<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2FiGhOvQo1KUxanK4hJDak%2FScreenshot%202022-12-16%20at%205.41.25%20PM.png?alt=media&token=74694179-10d6-4227-a17e-470b4669fcb2>)
+![](<[https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2FiGhOvQo1KUxanK4hJDak%2FScreenshot%202022-12-16%20at%205.41.25%20PM.png?alt=media&token=74694179-10d6-4227-a17e-470b4669fcb2](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fudgwvw8daCrADYEGvCEn%2Fuploads%2F3Z69W1viNETCHtC0cDbD%2FScreenshot%202022-12-16%20at%205.42.53%20PM.png?alt=media&token=fec859bb-7265-4066-9ab8-4edc932f430d)>)
 
 ### 4\. **Insert the Product File into Studio**
 
