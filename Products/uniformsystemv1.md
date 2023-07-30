@@ -4,7 +4,7 @@ icon: copilot
 
 # :icon-copilot: Uniform System V1
 
-{% embed url="https://www.youtube.com/watch?v=GPh8yTeYqOA" %}
+![](https://images.payhip.com/o_1h6j3sjale0k1k3lgd7gc8j5l10.gif)
 
 :icon-lock: Whitelisted: :icon-check:
 
@@ -59,3 +59,9 @@ icon: copilot
 ![](https://i.gyazo.com/5b5a36c612662d2b357b353cd9ace490.gif)
 
 ## 11\. You now have the shirt/pant template ID. Go back to settings and paste the template id associated with the desired rank. Eg: Rank 1 Shirt goes to the rank 1 area. Repeat this for every shirt/pant you want to add to the system. 
+
+![](https://i.gyazo.com/45584d3088c0ca6a90044f51df12c505.gif)
+
+Remember, if you feel stuck, you're not alone. Please contact us for support and one of our agents will respond to you as soon as they can.
+
+[!button icon="code-review" text="Contact Support"](https://discord.gg/architech-1021063205235200103)
