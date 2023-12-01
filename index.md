@@ -2,7 +2,9 @@
 icon: home
 ---
 
-# :icon-home: Home Page
+![](https://media.discordapp.net/attachments/1125146121199685743/1173227027755712653/WelcomeBanner.png?format=webp&quality=lossless)
+
+# :icon-home: Welcome to [!badge variant="primary" text="Architech"]
 
 Welcome to Architech, a leading tech company dedicated to innovative solutions and cutting-edge technology. Our group is designed to bring together tech enthusiasts, developers, and game owners from all over the Roblox community who share a passion for transforming the digital landscape.
 
