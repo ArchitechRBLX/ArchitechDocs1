@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: support.architechshop.co.uk # Add your website address here
+pro: true
 branding:
   title: Architech
   label: Support
